@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Базови стилове */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f3f4f6;
+  color: #1f2937;
+}
+
+/* Input focus */
+input:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* Button hover */
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.02);
+}
+
+/* Плавни анимации */
+button, input, .task {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Карти със задачи */
+.task {
+  background-color: #f9fafb;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Колони */
+.column {
+  min-width: 300px;
+  background: white;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
