@@ -41,5 +41,7 @@ kanban-board/<br>
 - React DnD (for drag-and-drop<br>
 
 ---
+❗ Don't forget to install node_modules locally! 🔺
+--
 
 Made with love by Gergana ™
