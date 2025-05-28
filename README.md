@@ -38,7 +38,7 @@ kanban-board/<br>
 - React<br>
 - Tailwind CSS<br>
 - Vite<br>
-- React DnD (for drag-and-drop<br>
+- React DnD (for drag-and-drop)<br>
 
 ---
 ❗ Don't forget to install node_modules locally! 🔺
