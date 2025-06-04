@@ -42,7 +42,7 @@ kanban-board/<br>
 
 ---
 
-🔺Required files: <br>
+🔺Required Files: <br>
 --
 node_modules
 
