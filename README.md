@@ -45,7 +45,6 @@ kanban-board/<br>
 🔺Required Files: <br>
 --
 node_modules
-
 --
 
 Made with love by Gergana ™
